@@ -11,5 +11,5 @@ Machine learning, computer vision, explainable AI, data science, applied AI syst
 
 **Projects**
 - [explainable-chest-xray](https://github.com/rabehalmutairi/explainable-chest-xray): multi-label chest X-ray diagnosis with Grad-CAM localization checked against ground-truth bounding boxes, including where the explanation is measurably wrong.
-- [saudi-tech-platform](https://github.com/rabehalmutairi/saudi-tech-platform): a curated directory of verified tech opportunities for students in Saudi Arabia, built with Next.js, FastAPI, and Supabase.
+- [VETTED](https://github.com/rabehalmutairi/VETTED): a curated directory of verified tech opportunities for students in Saudi Arabia, built with Next.js, FastAPI, and Supabase.
 - [raqeeb-ai](https://github.com/rabehalmutairi/raqeeb-ai): I contributed the ML pipeline and graph-based risk layer to this hackathon fraud-detection prototype.
