@@ -1,9 +1,9 @@
-# Hi, I'm Rabeh 👋
+# Hi, I'm Rabeh 
 
 Computer Information Systems student at King Saud University, Data Science track. Interested in applied AI and machine learning, specifically in taking models past experimentation into systems people can actually use.
 
 **Currently**
-- Deep Learning Lead on a 6-person team, Samsung Innovation Campus AI Capstone (through Sep 2026)
+- Deep Learning Lead & Team Leader on a 6-person team, Samsung Innovation Campus AI Capstone (through Sep 2026)
 - Building an explainable multi-label chest X-ray classifier: ConvNeXt-Tiny, Grad-CAM evaluated against radiologist-drawn bounding boxes rather than just visualized
 
 **Interests**
