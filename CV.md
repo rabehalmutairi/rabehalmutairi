@@ -9,7 +9,7 @@ Computer Information Systems student (Data Science Track) at King Saud Universit
 ## Education
 
 **King Saud University**: B.Sc. Computer Information Systems (Data Science Track)
-Aug 2022 – Expected 2027 · GPA: 4.10/5.00
+Aug 2022 – Expected 2027 
 
 ## Leadership & Programs
 
