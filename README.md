@@ -33,7 +33,6 @@ Directory of manually verified tech opportunities for students in Saudi Arabia. 
 
 ## Resume / Contact
 
-- [CV](CV.md)
 - [LinkedIn](https://www.linkedin.com/in/rabeh-almutairi-26aa143a0)
 - rabehalmutairi@outlook.com
 
