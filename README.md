@@ -4,7 +4,7 @@ Computer Information Systems student (Data Science Track) at King Saud Universit
 
 ## Currently
 
-- **AI Track Team Leader, Tuwaiq Club (King Saud University).** One of 6 AI-track team leaders (37 students accepted from 600+ applicants). I lead a six-member team building **MIQYAS**, an applied AI project on testing, security, and evaluation of AI agents. The project has no public repository yet; final presentation to judges is planned for Dec 2026.
+- **AI Track Team Leader, Tuwaiq Club (King Saud University).** One of 6 AI-track team leaders (37 students accepted from 600+ applicants). I lead a seven-member team building **[Voice Quote Agent](https://github.com/rabehalmutairi/voice-quote-agent)**, an AI voice agent that phones nearby phone-repair shops in parallel in Saudi Arabic, extracts price, part type, warranty and repair time with evidence quotes from the transcript, and compares the shops. Submission is in KSU Week 13 (Nov 15 to 21, 2026).
 - **GCI World 2026, The University of Tokyo (Matsuo-Iwasawa Lab).** Global Data Science & AI program with an international cohort. Hands-on work in Python, Pandas, NumPy, and Scikit-learn across data analysis, preprocessing, and machine learning.
 
 **Completed:** Samsung Innovation Campus AI Program (MiSK Skills), Jul to Sep 2026. Team Leader & Deep Learning Lead of a six-member capstone team that placed top 5 out of 25 teams. I owned model selection, training, and evaluation, and we integrated the model into a FastAPI/Streamlit app.
